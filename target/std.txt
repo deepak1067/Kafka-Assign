@@ -1,0 +1,25 @@
+
+{
+  "id" : 1,
+  "name" : "ankit",
+  "course" : "mca",
+  "age" : 23
+}
+{
+  "id" : 2,
+  "name" : "Deepak",
+  "course" : "MCA",
+  "age" : 24
+}
+{
+  "id" : 3,
+  "name" : "Ravi",
+  "course" : "Btech",
+  "age" : 25
+}
+{
+  "id" : 4,
+  "name" : "Mohit",
+  "course" : "BCA",
+  "age" : 22
+}
